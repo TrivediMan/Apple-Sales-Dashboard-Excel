@@ -1,5 +1,4 @@
 <img width="512" height="175" alt="image1" src="https://github.com/user-attachments/assets/16e6dab8-3f56-467a-8cfc-4086b0ed5a6d" />
-#  Apple Sales Performance Dashboard
 
 # 📊 Project Overview
 
